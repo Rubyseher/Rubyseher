@@ -46,8 +46,8 @@
 
 | Project | What it is | Stack | Link |
 |---|---|---|---|
-| **ShadeMatch** | AI outfit colour matching — upload a photo, get AI-generated matching combinations + shopping links | React, Gemini API | [Live Demo](#https://redux-ready-shadematch.onrender.com) |
-| **The Automated Oven App** | Cross-platform mobile app to remotely control and monitor a smart oven with real-time notifications | React Native | [Repo](#) |
+| **ShadeMatch** | AI outfit colour matching — upload a photo, get AI-generated matching combinations + shopping links | React, Gemini API | [Live Demo](https://redux-ready-shadematch.onrender.com) |
+| **The Automated Oven App** | Cross-platform mobile app to remotely control and monitor a smart oven with real-time notifications | React Native | [Repo](https://github.com/Rubyseher/Automated-Oven-App) |
 
 ---
 
