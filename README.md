@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ruby-s">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/ruby-s-885468205/">LinkedIn</a> ·
   <a href="https://github.com/Rubyseher">GitHub</a> ·
   <a href="mailto:ruby.seher000@gmail.com">Email</a> ·
   <a href="https://rubyseher.vercel.app">Portfolio</a>
@@ -46,9 +46,8 @@
 
 | Project | What it is | Stack | Link |
 |---|---|---|---|
-| **ShadeMatch** | AI outfit colour matching — upload a photo, get AI-generated matching combinations + shopping links | React, Gemini API | [Live Demo](#) |
+| **ShadeMatch** | AI outfit colour matching — upload a photo, get AI-generated matching combinations + shopping links | React, Gemini API | [Live Demo](#https://redux-ready-shadematch.onrender.com) |
 | **The Automated Oven App** | Cross-platform mobile app to remotely control and monitor a smart oven with real-time notifications | React Native | [Repo](#) |
-| **Healthcare Booking — Hackathon** | MERN-stack site for Taru Foundation with free doctor booking and video consults | MERN, Netlify | [Live](#) |
 
 ---
 
