@@ -7,8 +7,8 @@
 <p align="center">
   <a href="https://linkedin.com/in/ruby-s">LinkedIn</a> ·
   <a href="https://github.com/Rubyseher">GitHub</a> ·
-  <a href="mailto:ruby.seher000@gmail.com">Email</a>
-  <a href="mailto:ruby.seher000@gmail.com">Portfolio</a>
+  <a href="mailto:ruby.seher000@gmail.com">Email</a> ·
+  <a href="https://rubyseher.vercel.app">Portfolio</a>
 </p>
 
 ---
@@ -22,6 +22,17 @@
 - 🎨 Exploring the space where engineering meets product design
 - 🧁 Fuelled by cupcakes and trees
 
+
+---
+ 
+### 💼 Experience
+ 
+- 🏦 Full Stack Software Developer · **JP Morgan Chase** · Jul 2024 – Present
+- 🏦 Software Engineer Program Intern · **JP Morgan Chase** · Jan 2024 – Jun 2024
+- 🏦 Summer Analyst Intern · **JP Morgan Chase** · Jun 2023 – Aug 2023
+- 💻 React Developer · **JGEC Winter of Code** · Jul 2021 – Aug 2021
+- 💻 React Developer · **Let's Be The Change (#TeamLBTC)** · Apr 2021 – Jun 2021
+- 💻 React Developer · **next Up** · Jan 2021 – Mar 2021
 ---
 
 ### 🛠️ Languages & Tools
