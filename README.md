@@ -8,6 +8,7 @@
   <a href="https://linkedin.com/in/ruby-s">LinkedIn</a> ·
   <a href="https://github.com/Rubyseher">GitHub</a> ·
   <a href="mailto:ruby.seher000@gmail.com">Email</a>
+  <a href="mailto:ruby.seher000@gmail.com">Portfolio</a>
 </p>
 
 ---
