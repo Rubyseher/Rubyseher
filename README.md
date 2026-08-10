@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Ruby Seher <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <p align="center">
-  Full Stack Developer · JP Morgan Chase · Exploring the space where engineering meets product design
+  Product Designer & Front End Engineer · JP Morgan Chase
 </p>
 
 <p align="center">
